@@ -1,1 +1,2 @@
-Compilador: Code Blocks
+IDE: Code Blocks
+Compilador: C11
